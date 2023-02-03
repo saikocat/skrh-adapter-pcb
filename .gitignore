@@ -24,3 +24,12 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+
+# Locally generated files and folders
+
+# Backup
+*-backups
+
+# Local kicad setting
+*.kicad_prl
