@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Keebrary")(type "KiCad")(uri "${KICAD_USER_KEEBRARY_DIR}/footprints/Keebrary.pretty")(options "")(descr ""))
+)
